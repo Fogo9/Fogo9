@@ -25,7 +25,7 @@
 
 - :books: I'm currently studying in **Anadolu University Computer Programming**
 
-- :computer: I love writing code and learn anything about it
+- :computer: I'm currently working with **JAVA**
 
 - :mailbox:How to reach me: tuncaydemir682@gmail.com
 
