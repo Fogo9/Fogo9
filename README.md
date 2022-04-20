@@ -21,7 +21,7 @@
 
 ---
 
-- :seedling: I’m currently learning **JAVA, PHP**
+- :seedling: I’m currently learning **JAVA and PHP**
 
 - :books: I'm currently studying in **Anadolu University Computer Programming**
 
