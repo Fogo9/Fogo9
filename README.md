@@ -50,3 +50,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fogo9&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogo9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="tuncaydemr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/tuncaydemr?trk=profile-badge">Tuncay Demir</a></div>
+              
