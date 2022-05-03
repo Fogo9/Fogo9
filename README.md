@@ -31,7 +31,7 @@
 
 
 ### :man_technologist: About Me : 
-### I started 2 months ago and I am trying to improve myself in software development. Currently, I continue to learn in the field of Back-End Web Development, but I will work hard for Full Stack Web Development. I have a passion for learning new concepts and technologies. My motivation is to live by learning new skills and helping others and contributing to society.
+### Currently, I continue to learn in the field of Back-End Web Development, but I will work hard for Full Stack Web Development. I have a passion for learning new concepts and technologies. My motivation is to live by learning new skills and helping others and contributing to society.
 
 ---
 
