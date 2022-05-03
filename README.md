@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Fogo9&style=plastic&color=blue" alt=""/>
   <h1>
     <div>
-    Hello! I'm Tuncay, A Back End Web Developer
+    Hello! I'm Tuncay, a Back End Web Developer
     </div>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
