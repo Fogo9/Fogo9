@@ -55,8 +55,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fogo9&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogo9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)      
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fogo9&repo=github-readme-stats)](https://github.com/Fogo9/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogo9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)      
