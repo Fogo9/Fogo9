@@ -51,8 +51,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fogo9&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogo9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)        
-[![Build Status](https://travis-ci.org/timbrel/GitSavvy.svg?branch=master)](https://travis-ci.org/timbrel/GitSavvy)
-
-[![AppVeyor branch](https://img.shields.io/appveyor/ci/divmain/GitSavvy/master.svg)](https://ci.appveyor.com/project/divmain/GitSavvy)
-
-[![Coverage Status](https://coveralls.io/repos/github/timbrel/GitSavvy/badge.svg)](https://coveralls.io/github/timbrel/GitSavvy)
