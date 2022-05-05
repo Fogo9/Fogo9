@@ -57,4 +57,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&theme=codeSTACKr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogo9&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogo9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
