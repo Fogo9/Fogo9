@@ -54,3 +54,5 @@
 [![Build Status](https://travis-ci.org/timbrel/GitSavvy.svg?branch=master)](https://travis-ci.org/timbrel/GitSavvy)
 
 [![AppVeyor branch](https://img.shields.io/appveyor/ci/divmain/GitSavvy/master.svg)](https://ci.appveyor.com/project/divmain/GitSavvy)
+
+[![Coverage Status](https://coveralls.io/repos/github/timbrel/GitSavvy/badge.svg)](https://coveralls.io/github/timbrel/GitSavvy)
