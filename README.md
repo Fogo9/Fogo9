@@ -1,5 +1,4 @@
 
-![Artificial-Intelligence-5-1](https://user-images.githubusercontent.com/98576037/167186406-c1e027c2-5afd-4055-9de3-4c24bdb8c710.png)
 
 
 <p align="center">
