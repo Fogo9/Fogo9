@@ -42,7 +42,8 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 ---
 
-### :fire: My Stats :
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogo9&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)      
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fogo9&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
