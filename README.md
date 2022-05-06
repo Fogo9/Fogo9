@@ -24,6 +24,10 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 ---
 
+<h3 align="center">Connect with me:</h3>
+
+---
+
 ### :hammer_and_wrench: Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
