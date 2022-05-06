@@ -44,13 +44,25 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 ---
 
-### :hammer_and_wrench: Tools:
-<div>
+<h3 align="center">Tools :</h3>
+
+<p align="center"> 
+  
+<a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  </a>
+
+ <a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+   </a>
+  
+ <a> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+   </a>
+  
+ <a> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-</div>
+</a>
 
 ---
 
