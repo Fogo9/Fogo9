@@ -20,7 +20,7 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me :***
 
-### Currently, I continue to learn in the field of Back-End Web Development, but I will work hard for Full Stack Web Development. I have a passion for learning new concepts and technologies. My motivation is to live by learning new skills and helping others and contributing to society.
+### I am a Back End Web Developer passionate about creating technology and building community to make open source contribution more accessible and invigorate people. In March 2022, I started my developer journey starting from the bottom of the BTK Academy curriculum. I first met PHP and I loved it. Later, I learned that PHP language is in the Back End and that's when I set my first path in my software career journey. During this 2 month period, I joined JAVA Bootcamp and won the JAVA Back End Web Development certificate, the first certificate I received in my life, and let the software be a part of my life. Everyone describes the JAVA language as difficult. But I easily adapted to the language with the small projects I did. I am currently a beginner in PHP and JAVA. I try to master every language I have learned or will learn by improving myself. I have chosen my new path and am moving forward to become a Full Stack Web Developer and not just stay in the Back End.
 
 ---
 
