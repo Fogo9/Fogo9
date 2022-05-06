@@ -15,8 +15,6 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 - :computer: I'm currently working with **JAVA**
 
-- :mailbox:How to reach me: tuncaydemir682@gmail.com
-
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me :***
 
