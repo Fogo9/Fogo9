@@ -18,7 +18,8 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 - :mailbox:How to reach me: tuncaydemir682@gmail.com
 
 
-### :man_technologist: About Me : 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me :***
+
 ### Currently, I continue to learn in the field of Back-End Web Development, but I will work hard for Full Stack Web Development. I have a passion for learning new concepts and technologies. My motivation is to live by learning new skills and helping others and contributing to society.
 
 ---
