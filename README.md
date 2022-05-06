@@ -29,7 +29,8 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuncaydemr/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuncaydemir682@gmail.com)
-  
+
+</div>
 ---
 
 ### :hammer_and_wrench: Technologies:
