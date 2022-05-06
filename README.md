@@ -55,7 +55,7 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 <hr>
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Fogo9&theme=juicyfresh&no-bg=true" />
 
 
