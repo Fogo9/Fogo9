@@ -24,7 +24,7 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 ---
 
-<h3 align="center">***Connect with me :***</h3>
+<h3 align="center">Connect with me :</h3>
 
 ---
 
