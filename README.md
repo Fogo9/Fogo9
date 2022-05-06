@@ -1,7 +1,7 @@
 ![Başlıksız-1](https://user-images.githubusercontent.com/98576037/167177173-8691349c-5c07-4dd3-8c20-511bf96a83e8.png)
 
 <p align="center">
-### Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
+Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 </p>
 
 
