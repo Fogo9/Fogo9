@@ -8,6 +8,8 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
    <a href="https://www.buymeacoffee.com/tuncaydemir" target="_blank" style="display: inline-block;">
         <img width="180" alt="yellow-button" src="https://user-images.githubusercontent.com/98576037/167250016-77b99f7f-e2a1-4b76-9072-7fa3c8d011fd.png">
    </a></div>
+   <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Fogo&label=Profile%20views&color=0e75b6&style=plastic" alt="fogo9" /> </p>
 
 
 ---
