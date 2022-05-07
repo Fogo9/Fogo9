@@ -57,6 +57,10 @@ I am a Back End Web Developer passionate about creating technology and building 
     <img align="left" alt="Tuncay Demir | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
+<a href="https://github.com/Fogo9">
+    <img align="left" alt="Tuncay Demir | Github" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
+  </a> &nbsp;&nbsp;
+  
 <br><br>
 
 ## Technologies :
