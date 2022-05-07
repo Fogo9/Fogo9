@@ -1,6 +1,12 @@
+
+https://user-images.githubusercontent.com/98576037/167265156-24148266-4049-46e5-b321-93853e7ef552.mp4
+
+<br>
+
 ### <div align="center"><p><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> HELLO WORLD!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px"></p> </div>
 
 ---
+
 
 ![Başlıksız-3](https://user-images.githubusercontent.com/98576037/167194624-f16430da-2a39-46f2-bb4e-3746453e0a8a.png)
 
