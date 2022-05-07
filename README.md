@@ -1,7 +1,4 @@
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/98576037/167265776-b3ea2bdb-0839-4c6c-a5e0-3db40e8516cd.gif)
-
-
 <br>
 
 ### <div align="center"><p><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> HELLO WORLD!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px"></p> </div>
