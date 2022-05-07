@@ -57,9 +57,9 @@ I am a Back End Web Developer passionate about creating technology and building 
     <img align="left" alt="Tuncay Demir | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-<br>
+<br><br>
 
-## Technologies
+## Technologies :
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
