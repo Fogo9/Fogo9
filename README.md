@@ -27,9 +27,8 @@ I am a Back End Web Developer passionate about creating technology and building 
 
 - :computer: I'm currently working with **JAVA**
 
----
 
-<h3 align="center">Connect with me :</h3>
+<h2>Connect with me :</h2>
 
 <div align="center">
 
