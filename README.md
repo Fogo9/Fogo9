@@ -41,13 +41,13 @@ I am a Back End Web Developer passionate about creating technology and building 
 
 <br>
 
-## Spotify Playing 🎧<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="27px">
+## Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/6aqf85deIIJEcGMv05duKu)
 
 <br>
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="27px">
+## Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="27px">
 
 <a href="https://www.linkedin.com/in/tuncaydemr/">
     <img align="left" alt="Tuncay Demir | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -59,7 +59,7 @@ I am a Back End Web Developer passionate about creating technology and building 
   
 <br>
 
-## Technologies<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="27px">
+## Technologies
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
