@@ -59,20 +59,12 @@ I am a Back End Web Developer passionate about creating technology and building 
   
 <br>
 
-<h3 align="center">Technologies :</h3>
+## Technologies :
 
-<p align="center"> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
   
-  <a> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; 
-  </a>
-  
-  <a> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
-  </a>
-</p>
-
----
+<br>
 
 <h3 align="center">Tools :</h3>
 
