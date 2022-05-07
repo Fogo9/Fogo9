@@ -46,7 +46,7 @@ I am a Back End Web Developer passionate about creating technology and building 
 [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/6aqf85deIIJEcGMv05duKu)
 
 <br>
-<!-- <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" alt="Developer" style="float: left;" width="700px"> -->
+
 <h2>Connect with me :</h2>
 
 <div align="center">
