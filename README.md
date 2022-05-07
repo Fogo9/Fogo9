@@ -12,7 +12,6 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
                />
    </a></div>
 
-
 ---
 
 - :seedling: I’m currently learning **JAVA and PHP**
