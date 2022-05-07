@@ -91,4 +91,4 @@ I am a Back End Web Developer passionate about creating technology and building 
 
 ---
 
-<h2>✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨</h2>
+<div align="center"><p>✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨</p> </div>
