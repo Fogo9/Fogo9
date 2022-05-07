@@ -78,9 +78,9 @@ I am a Back End Web Developer passionate about creating technology and building 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&theme=github_dark) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fogo9&theme=algolia) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&theme=algolia) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fogo9&theme=algolia) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogo9&theme=github_dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=github_dark) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fogo9&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
 
 <br><br>
 
