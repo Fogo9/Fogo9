@@ -49,13 +49,15 @@ I am a Back End Web Developer passionate about creating technology and building 
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuncaydemr/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuncaydemir682@gmail.com)
-  </div>
+<a href="https://www.linkedin.com/in/tuncaydemr/">
+    <img align="left" alt="Tuncay Demir | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
   
----
+<a href="mailto:tuncaydemir682@gmail.com">
+    <img align="left" alt="Tuncay Demir | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+<br>
 
 <h3 align="center">Technologies :</h3>
 
