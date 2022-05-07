@@ -6,11 +6,9 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 <div align="center">
    <a href="https://www.buymeacoffee.com/tuncaydemir" target="_blank" style="display: inline-block;">
-        <img
-           src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge" 
-              align="center"
-               />
+        <img width="180" alt="yellow-button" src="https://user-images.githubusercontent.com/98576037/167250016-77b99f7f-e2a1-4b76-9072-7fa3c8d011fd.png">
    </a></div>
+
 
 ---
 
