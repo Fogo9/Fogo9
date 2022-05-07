@@ -88,6 +88,6 @@ I am a Back End Web Developer passionate about creating technology and building 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</b></i></p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Fogo9&theme=juicyfresh&no-bg=true" />
 
-<br>
+<br><br>
 
 <div align="center"><p>✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨</p> </div>
