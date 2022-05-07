@@ -31,7 +31,9 @@ I am a Back End Web Developer passionate about creating technology and building 
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Java** and **PHP** and **Back End Development**💪
 
-- :seedling: I’m currently learning **JAVA and PHP**
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning **PHP**🤯 and working on improving my **JAVA** skills👨‍💻.
+
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness*😎 lies in my _laziness_ 😴
 
 - :books: I'm currently studying in **Anadolu University Computer Programming**
 
