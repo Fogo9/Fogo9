@@ -47,7 +47,7 @@ I am a Back End Web Developer passionate about creating technology and building 
 
 <br>
 
-<h2>Connect with me :</h2>
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 <div align="center">
 
