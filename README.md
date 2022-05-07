@@ -20,6 +20,7 @@ Hello! Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 - :computer: I'm currently working with **JAVA**
 
+---
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me :***
 
