@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 <div align="center">
    <a>
-   Shall we drink coffee?
+   Shall we drink coffee? :blush:
    </a></div>
    <br>
    
