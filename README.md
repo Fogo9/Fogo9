@@ -11,6 +11,11 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 <br>
 
 <div align="center">
+   <a>
+   Shall we drink coffee?
+   </a></div>
+   
+<div align="center">
    <a href="https://www.buymeacoffee.com/tuncaydemir" target="_blank" style="display: inline-block;">
         <img width="180" alt="yellow-button" src="https://user-images.githubusercontent.com/98576037/167250016-77b99f7f-e2a1-4b76-9072-7fa3c8d011fd.png">
    </a></div>
