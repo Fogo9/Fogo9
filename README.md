@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fogo&label=Profile%20views&color=0e75b6&style=plastic" alt="fogo9" /> </p>
-<br>
+
 
 ---
 
