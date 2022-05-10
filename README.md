@@ -14,6 +14,7 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
    <a>
    Shall we drink coffee?
    </a></div>
+   <br>
    
 <div align="center">
    <a href="https://www.buymeacoffee.com/tuncaydemir" target="_blank" style="display: inline-block;">
