@@ -1,6 +1,9 @@
 
 ### <div align="center"><p><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> HELLO WORLD!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px"></p> </div>
 
+![Başlıksız-3](https://user-images.githubusercontent.com/98576037/168345265-8f5d6e63-b3c1-4149-bd6c-769293826a23.png)
+
+
 <p align="center">
 Welcome to my GitHub profile! Thank you for visiting! :blush:
 </p>
