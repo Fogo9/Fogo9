@@ -40,7 +40,7 @@ I am a Back End Web Developer passionate about creating technology and building 
 
 - I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Java** and **PHP** and **Back End Development**💪
+- I’m **good** in **Java** and **PHP** and **Back End Development**💪
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> Currently Learning **PHP**🤯 and working on improving my **JAVA** skills👨‍💻.
 
