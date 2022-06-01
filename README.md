@@ -38,7 +38,7 @@ I am a Back End Web Developer passionate about creating technology and building 
 </p>
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" /> I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
+- I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m **good** in **Java** and **PHP** and **Back End Development**💪
 
