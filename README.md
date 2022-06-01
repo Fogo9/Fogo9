@@ -92,7 +92,7 @@ I am a Back End Web Developer passionate about creating technology and building 
 <br>
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <i><b>Git Activeness</b></i></p>
  
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Fogo9&show_icons=true&theme=algolia) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fogo9&theme=algolia) |
 | --- | --- |
