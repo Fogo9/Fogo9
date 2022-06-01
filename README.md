@@ -89,7 +89,7 @@ I am a Back End Web Developer passionate about creating technology and building 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
 
-<br>
+<br><br><br>
 
 <p align="center">
  <i><b>Git Activeness</b></i></p>
