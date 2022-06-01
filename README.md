@@ -13,7 +13,6 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 
 ---
 
-
 <div align="center">
    <a>
    Shall We Drink Coffee? :blush:
