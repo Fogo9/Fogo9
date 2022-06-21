@@ -53,7 +53,7 @@ I had no knowledge of the software before March 2022 and earlier. I attended the
 
 - Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 
-- :books: I'm currently studying in **Anadolu University Computer Programming**
+- I'm currently studying in **Anadolu University Computer Programming**
 
 <br>
 
