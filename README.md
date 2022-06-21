@@ -45,7 +45,7 @@ I had no knowledge of the software before March 2022 and earlier. I attended the
 
 - I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
 
-- I’m **good** in **Java** and **PHP** and **Back End Development**💪
+- I’m **good** in **Java** and **PHP** and **Web Development**💪
 
 - Currently Learning **PHP**🤯 and working on improving my **JAVA** skills👨‍💻.
 
