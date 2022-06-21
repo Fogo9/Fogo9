@@ -4,7 +4,7 @@
        </a></div>
 
 
-![Başlıksız-3](https://user-images.githubusercontent.com/98576037/168345265-8f5d6e63-b3c1-4149-bd6c-769293826a23.png)
+
 
 
 <p align="center">
