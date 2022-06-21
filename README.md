@@ -34,9 +34,14 @@ Welcome to my GitHub profile! Thank you for visiting! :blush:
 <h2>About Me :</h2>
        </a></div>
 <p>
-I am a Back End Web Developer passionate about creating technology and building community to make open source contribution more accessible and invigorate people. In March 2022, I started my developer journey starting from the bottom of the BTK Academy curriculum. I first met PHP and I loved it. Later, I learned that PHP language is in the Back End and that's when I set my first path in my software career journey. During this 2 month period, I joined JAVA Bootcamp and won the JAVA Back End Web Development certificate, the first certificate I received in my life, and let the software be a part of my life. Everyone describes the JAVA language as difficult. But I easily adapted to the language with the small projects I did. I am currently a beginner in PHP and JAVA. I try to master every language I have learned or will learn by improving myself. I have chosen my new path and am moving forward to become a Full Stack Web Developer and not just stay in the Back End.
+Mart 2022 ve öncesinde yazılım hakkında hiçbir bilgim yoktu. Mart 2022'de Kodluyoruz Şirketi'nin Back End Web Development bootcamp'ına katıldım ve yazılım dünyasına JAVA dili ile adım attım. JAVA dilinin başlangıç ​​seviyesini tamamladıktan sonra PHP ile devam etmeye karar verdim ve şimdi PHP dilini öğreniyorum. En son teknolojiler konusunda tutkuluyum, ancak ortaya çıkan yeni teknolojilerle zorlu projelere ve yenilikçi çözümlere katkıda bulunmak için yeni fırsatlar arayan motive olmuş bir Web Geliştiricisiyim. Müşterilere ürünleri ve hizmetleri hakkında iyi bir izlenim verebilecek en iyi kullanıcı deneyimini sağlayabilecek daha iyi yazılımlar geliştirmek istiyorum.
 </p>
 <br>
+
+<p>
+I had no knowledge of the software before March 2022 and earlier. I attended the Kodluyoruz Company's Back End Web Development bootcamp in March 2022 and stepped into the software world with the JAVA language. After completing the beginner level of JAVA language, I decided to continue with PHP and now I am learning PHP language. I am passionate about the latest technologies, but I am a motivated Web Developer looking for new opportunities to contribute to challenging projects and innovative solutions with emerging new technologies. I want to develop better software that can provide the best user experience that can give customers a good impression of their products and services.
+</p>
+
 
 - I’m _currently_ **sleeping** 😴 or _working_ on my **laptop** 👨‍💻
 
